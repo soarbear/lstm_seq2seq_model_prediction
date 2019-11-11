@@ -80,11 +80,11 @@ class Prediction:
 #
   def create_model(self) :
     model = Sequential()
-    # Encorder
+    # Encoder
     model.add(LSTM(self.hidden_neurons, activation=self.activation_hidden, input_shape=(self.in_time_steps, self.in_features)))
     # Output used as Input.
     model.add(RepeatVector(self.out_vectors))
-    # Decorder, output sequence
+    # Decoder, output sequence
     model.add(LSTM(self.hidden_neurons, activation=self.activation_hidden, return_sequences=True))
     model.add(TimeDistributed(Dense(self.out_features, activation=self.activation_output)))
     #model.add(Activation(self.activation_output))   
