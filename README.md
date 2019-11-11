@@ -11,7 +11,7 @@ Pandas 0.25.2<br>
 sklearn 0.21.3
 
 # Result
-![alt text](https://github.com/soarbear/stocks-lstm-keras/blob/master/stocks-letm-keras.jpg)
+![alt text](https://github.com/soarbear/lstm_seq2seq_model_prediction/blob/master/lstm_seq2seq_model_prediction.jpg)
 
 # Other Language
 <a href="https://memo.soarcloud.com/lstm-seq2seq%e3%83%a2%e3%83%87%e3%83%ab%e5%ae%9f%e8%a3%85/">日本語説明</a>
