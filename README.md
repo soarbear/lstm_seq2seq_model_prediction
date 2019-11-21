@@ -10,6 +10,9 @@ Numpy 1.17.3<br>
 Pandas 0.25.2<br>
 sklearn 0.21.3
 
+# Model
+![alt text](https://github.com/soarbear/lstm_seq2seq_model_prediction/blob/master/lstm_seq2seq_model.jpg)
+
 # Result
 ![alt text](https://github.com/soarbear/lstm_seq2seq_model_prediction/blob/master/lstm_seq2seq_model_prediction.jpg)
 
