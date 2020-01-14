@@ -19,4 +19,4 @@ sklearn 0.21.3
 By increasing the number of epochs and neurons, a satisfactory result is obtained in accuracy as shown above. This shows how important the adjustment of hyperparameters, including the selection of cost functions and activation functions, is in terms of accuracy.
 
 # Language
-<a href="https://memo.soarcloud.com/lstm-seq2seq%e3%83%a2%e3%83%87%e3%83%ab%e5%ae%9f%e8%a3%85/">日本語説明</a>
+<a href="https://memo.soarcloud.com/lstm-seq2seq%e3%83%a2%e3%83%87%e3%83%ab%e5%ae%9f%e8%a3%85/">Explained in Japanese</a>
